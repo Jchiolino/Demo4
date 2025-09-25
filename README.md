@@ -55,6 +55,11 @@ This demo demonstrates:
 - Understanding of **buff/debuff strategy** and **enemy phases**.  
 - Awareness of **player experience and pacing** in combat.  
 
+## Bossfight video
+I couldn't fit the video into the GitHub, so I uploaded it to YouTube instead.
+https://youtu.be/MrEIFTG69m4
+Hope it looks good!
+
 ---
 
 ## End
